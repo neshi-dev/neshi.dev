@@ -2,7 +2,8 @@
 
 I'm Nelli, a curious learner exploring the world of open source and collaborative development.
 
-![Learning in Progress](https://img.shields.io/badge/Learning_in_Progress-%20-white?style=for-the-badge&labelColor=000000)
+![Introduction to GitHub](https://img.shields.io/badge/Introduction_to_GitHub-Completed-brightgreen?style=for-the-badge&labelColor=222)
+
 
 I recently completed the [Introduction to GitHub](https://github.com/skills/introduction-to-github) course.
 
